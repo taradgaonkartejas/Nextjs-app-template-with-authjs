@@ -17,8 +17,8 @@ Git (for version control)
 1. Clone the Repository
 
 ```
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/taradgaonkartejas/Nextjs-app-template-with-authjs.git
+cd Nextjs-app-template-with-authjs
 ```
 
 2. Install Dependencies
